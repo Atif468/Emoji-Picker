@@ -1,5 +1,5 @@
- <h2>Prerequisites</h2>
-        <li><a href="https://nodejs.org/">Node.js</a> (Version 14 or higher recommended)</li>
+ #Prerequisites
+        --<a href="https://nodejs.org/">Node.js</a> (Version 14 or higher recommended)
         <li><a href="https://git-scm.com/">Git</a></li>
     </ul>
 
